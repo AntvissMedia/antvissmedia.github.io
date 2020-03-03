@@ -1,0 +1,22 @@
+[
+   {
+      "ID": 0,
+      "GENID": "MS_AZ_103",
+      "EXAM_TITLE": "Microsoft AZ-103: Azure Administrator",
+      "EXAM_ID": 3,
+      "VERSION": 1,
+      "LAST_UPDATED": 1583251967,
+      "REQUIRED_TO_PASS": 700,
+      "TOTAL_SCORE": 1000
+   },
+   {
+      "ID": 1,
+      "GENID": "MS_AZ_104",
+      "EXAM_TITLE": "Microsoft AZ-103: Azure Designer",
+      "EXAM_ID": 4,
+      "VERSION": 1,
+      "LAST_UPDATED": 1583241967,
+      "REQUIRED_TO_PASS": 700,
+      "TOTAL_SCORE": 1000
+   }
+]
