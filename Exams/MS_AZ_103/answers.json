@@ -1,0 +1,56 @@
+[
+   {
+      "ID": 1,
+      "GENID": "MS_AZ_103_Q1",
+      "TEXT_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/Q1.html",
+      "EXPLANATION_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/E1.html",
+      "REAL_ANSWER_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/A1.html",
+      "EXAM_ID": 0,
+      "TYPE": 0
+   },
+   {
+      "ID": 2,
+      "GENID": "MS_AZ_103_Q2",
+      "TEXT_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/Q2.html",
+      "EXPLANATION_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/E2.html",
+      "REAL_ANSWER_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/A2.html",
+      "EXAM_ID": 0,
+      "TYPE": 1
+   },
+   {
+      "ID": 3,
+      "GENID": "MS_AZ_103_Q3",
+      "TEXT_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/Q3.html",
+      "EXPLANATION_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/E3.html",
+      "REAL_ANSWER_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/A3.html",
+      "EXAM_ID": 0,
+      "TYPE": 1
+   },
+   {
+      "ID": 4,
+      "GENID": "MS_AZ_103_Q4",
+      "TEXT_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/Q4.html",
+      "EXPLANATION_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/E4.html",
+      "REAL_ANSWER_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/A4.html",
+      "EXAM_ID": 0,
+      "TYPE": 3
+   },
+   {
+      "ID": 5,
+      "GENID": "MS_AZ_103_Q5",
+      "TEXT_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/Q5.html",
+      "EXPLANATION_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/E5.html",
+      "REAL_ANSWER_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/A5.html",
+      "EXAM_ID": 0,
+      "TYPE": 0
+   },
+   {
+      "ID": 6,
+      "GENID": "MS_AZ_103_Q6",
+      "TEXT_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/Q6.html",
+      "EXPLANATION_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/E6.html",
+      "REAL_ANSWER_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/A6.html",
+      "EXAM_ID": 0,
+      "TYPE": 2
+   }
+]
