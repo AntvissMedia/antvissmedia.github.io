@@ -4,56 +4,59 @@
       "GENID": "MS_AZ_103",
       "EXAM_TITLE": "Microsoft AZ-103: Azure Administrator",
       "EXAM_ID": 0,
-      "VERSION": 1583251967,
-      "LAST_UPDATED": 700,
-      "REQUIRED_TO_PASS": 1000
+      "VERSION": 1,
+      "LAST_UPDATED": 1583251967,
+      "REQUIRED_TO_PASS": 644,
+      "TOTAL_SCORE": 1000
    },
    {
       "ID": 1,
       "GENID": "MS_AZ_104",
-      "EXAM_TITLE": "Microsoft AZ-103: Azure Designer",
+      "EXAM_TITLE": "Microsoft AZ-104: Azure Designer",
       "EXAM_ID": 1,
-      "VERSION": 1583241967,
-      "LAST_UPDATED": 700,
-      "REQUIRED_TO_PASS": 1000
+      "VERSION": 2,
+      "LAST_UPDATED": 1583241967,
+      "REQUIRED_TO_PASS": 700,
+      "TOTAL_SCORE": 3444
    },
    {
       "ID": 2,
       "GENID": "MS_AZ_103",
       "EXAM_TITLE": "Microsoft AZ-13: Azure Administrator",
       "EXAM_ID": 2,
-      "VERSION": 1583251967,
-      "LAST_UPDATED": 700,
-      "REQUIRED_TO_PASS": 1000
+      "VERSION": 1,
+      "LAST_UPDATED": 1583251967,
+      "REQUIRED_TO_PASS": 424,
+      "TOTAL_SCORE": 1000
    },
    {
       "ID": 3,
       "GENID": "MS_AZ_104",
       "EXAM_TITLE": "Microsoft AZ-103: A4323zure Designer",
       "EXAM_ID": 3,
-      "VERSION": 1583241967,
-      "LAST_UPDATED": 700,
-      "REQUIRED_TO_PASS": 1000
+      "VERSION": 34,
+      "LAST_UPDATED": 1584241967,
+      "REQUIRED_TO_PASS": 700,
+      "TOTAL_SCORE": 1000
    },
    {
       "ID": 4,
-      "GENID": "MS_AZ_103",
+      "GENID": "MS_AZ_105",
       "EXAM_TITLE": "Microsoft 33AZ-103: Azure Administrator",
       "EXAM_ID": 4,
-      "VERSION": 1583251967,
-      "LAST_UPDATED": 700,
-      "REQUIRED_TO_PASS": 1000
+      "VERSION": 1,
+      "LAST_UPDATED": 1523251967,
+      "REQUIRED_TO_PASS": 522,
+      "TOTAL_SCORE": 1000
    },
    {
       "ID": 5,
-      "GENID": "MS_AZ_104",
+      "GENID": "MS_AZ_106",
       "EXAM_TITLE": "Microsoft AZ-103: 432Azure Designer",
       "EXAM_ID": 5,
-      "VERSION": 1583241967,
-      "LAST_UPDATED": 700,
-      "REQUIRED_TO_PASS": 1000
-   },
-   {
-      "GENID": "MS_AZ_105"
+      "VERSION": 1,
+      "LAST_UPDATED": 1583211967,
+      "REQUIRED_TO_PASS": 700,
+      "TOTAL_SCORE": 1000
    }
 ]
