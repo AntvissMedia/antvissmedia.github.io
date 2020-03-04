@@ -1,0 +1,27 @@
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #fff;
+        color: black;
+    }
+}
+
+/* Light mode */
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: #000;
+        color: white;
+    }
+}
+
+body {
+      background-color: transparent;
+      transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+      transform-style: preserve-3d;
+    }
+	
+.question-text {
+      font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+      left: -1px;
+      top: 0px;
+    }
