@@ -1,6 +1,6 @@
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
-    body {
+    .question-body {
         background-color: #000!important;
         color: white;
     }
@@ -8,18 +8,24 @@
 
 /* Light mode */
 @media (prefers-color-scheme: light) {
-    body {
+    .question-body {
         background-color: #fff!important;
         color: black;
     }
 }
 
 body {
-      background-color: transparent;
       transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
       transform-style: preserve-3d;
+	      font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+
     }
 	
+.answer{
+background-color: #ffff80!important;
+	      font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+
+}
 .question-text {
       font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
       left: -1px;
