@@ -1,6 +1,6 @@
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
-    body {
+    .question-body {
         background-color: #000!important;
         color: white;
     }
@@ -8,7 +8,7 @@
 
 /* Light mode */
 @media (prefers-color-scheme: light) {
-    body {
+    .question-body {
         background-color: #fff!important;
         color: black;
     }
@@ -22,7 +22,7 @@ body {
     }
 	
 .answer{
-background-color: #ffff80;
+background-color: #ffff80!important;
 	      font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
 
 }
