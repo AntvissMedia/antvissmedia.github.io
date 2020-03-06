@@ -2,28 +2,33 @@
    {
       "ID": 1,
       "GENID": "MS_AZ_103_Q1",
-      "TEXT_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/Q1.html",
-      "EXPLANATION_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/E1.html",
-      "REAL_ANSWER_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/A1.html",
+      "TEXT1": "dasda",
+      "TEXT4": "das",
       "EXAM_ID": 0,
-      "TYPE": 0
+      "TYPE": 1,
+      "testNest": {
+         "IMAGE2": "dgd"
+      }
    },
    {
       "ID": 2,
       "GENID": "MS_AZ_103_Q2",
-      "TEXT_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/Q2.html",
-      "EXPLANATION_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/E2.html",
-      "REAL_ANSWER_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/A2.html",
+      "TEXT3": "das",
       "EXAM_ID": 0,
-      "TYPE": 2
+      "TYPE": 3,
+      "testNest": {
+         "IMAGE2": "dgd"
+      }
    },
    {
       "ID": 3,
       "GENID": "MS_AZ_103_Q3",
-      "TEXT_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/Q3.html",
-      "EXPLANATION_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/E3.html",
-      "REAL_ANSWER_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/A3.html",
+      "TEXT1": "dasf",
+      "TEXT4": "jfghf",
       "EXAM_ID": 0,
-      "TYPE": 1
+      "TYPE": 2,
+      "testNest": {
+         "IMAGE2": "dgd"
+      }
    }
 ]
