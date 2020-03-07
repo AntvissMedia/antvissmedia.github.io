@@ -23,26 +23,6 @@
          {
             "TEXT": "You are prevented from creating Azure SQL servers anywhere in Subscription1.",
             "VALUE": 0
-         },
-         {
-            "TEXT": "Yes",
-            "VALUE": 0
-         },
-         {
-            "TEXT": "No",
-            "VALUE": 1
-         },
-         {
-            "TEXT": "From the Directory role blade, modify the directory role.",
-            "VALUE": 1
-         },
-         {
-            "TEXT": "From the Licenses blade, assign a new license.",
-            "VALUE": 0
-         },
-         {
-            "TEXT": "From the Groups blade, invite the user account to a new group.",
-            "VALUE": 0
          }
       ],
       "GROUP2": [
@@ -60,40 +40,12 @@
       "GROUP3_VAL": 0,
       "GROUP1": [
          {
-            "TEXT": "You are prevented from creating Azure SQL Servers in ContosoRG1 only.",
-            "VALUE": 0
-         },
-         {
-            "TEXT": "You can create Azure SQL servers in ContosoRG1 only.",
-            "VALUE": 1
-         },
-         {
-            "TEXT": "You can create Azure SQL servers in any resource group within Subscription1.",
-            "VALUE": 0
-         },
-         {
-            "TEXT": "You are prevented from creating Azure SQL servers anywhere in Subscription1.",
-            "VALUE": 0
-         },
-         {
             "TEXT": "Yes",
             "VALUE": 0
          },
          {
             "TEXT": "No",
             "VALUE": 1
-         },
-         {
-            "TEXT": "From the Directory role blade, modify the directory role.",
-            "VALUE": 1
-         },
-         {
-            "TEXT": "From the Licenses blade, assign a new license.",
-            "VALUE": 0
-         },
-         {
-            "TEXT": "From the Groups blade, invite the user account to a new group.",
-            "VALUE": 0
          }
       ],
       "GROUP2": [
@@ -110,30 +62,6 @@
       "GROUP2_VAL": 0,
       "GROUP3_VAL": 0,
       "GROUP1": [
-         {
-            "TEXT": "You are prevented from creating Azure SQL Servers in ContosoRG1 only.",
-            "VALUE": 0
-         },
-         {
-            "TEXT": "You can create Azure SQL servers in ContosoRG1 only.",
-            "VALUE": 1
-         },
-         {
-            "TEXT": "You can create Azure SQL servers in any resource group within Subscription1.",
-            "VALUE": 0
-         },
-         {
-            "TEXT": "You are prevented from creating Azure SQL servers anywhere in Subscription1.",
-            "VALUE": 0
-         },
-         {
-            "TEXT": "Yes",
-            "VALUE": 0
-         },
-         {
-            "TEXT": "No",
-            "VALUE": 1
-         },
          {
             "TEXT": "From the Directory role blade, modify the directory role.",
             "VALUE": 1
