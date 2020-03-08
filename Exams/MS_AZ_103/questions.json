@@ -1,28 +1,115 @@
 [
    {
+      "ID": 0,
+      "GENID": "MS_AZ_103_Q0",
+      "TEXT1": "You have an Azure policy as shown in the following exhibit.",
+      "IMAGE1": "Remoteq1-1.jpg",
+      "TEXT2": "What is the effect of the policy?",
+      "EXPLANATION_URL": "RemoteE1.html",
+      "TYPE": 0
+   },
+   {
       "ID": 1,
       "GENID": "MS_AZ_103_Q1",
-      "TEXT1": "You have an Azure policy as shown in the following exhibit.\n",
-      "IMAGE1": "https://antvissmedia.github.io/Exams/MS_AZ_103/q1-1.jpg",
-      "TEXT2": "What is the effect of the policy?\n",
-      "EXPLANATION_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/E1.html",
-      "EXAM_ID": 0,
-      "TYPE": 1
+      "TEXT1": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.\r\nAfter you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.\r\n\r\nYou have an Azure Active Directory (Azure AD) tenant named Adatum and an Azure Subscription named Subscription1. Adatum contains a group named Developers. Subscription1 contains a resource group named Dev.\r\n\r\nYou need to provide the Developers group with the ability to create Azure logic apps in the Dev resource group.\r\n\r\nSolution: On Subscription1, you assign the DevTest Labs User role to the Developers group.\r\n\r\nDoes this meet the goal?",
+      "EXPLANATION_URL": "RemoteE2.html",
+      "TYPE": 0
    },
    {
       "ID": 2,
       "GENID": "MS_AZ_103_Q2",
-      "TEXT1": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.\nAfter you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.\n\nYou have an Azure Active Directory (Azure AD) tenant named Adatum and an Azure Subscription named Subscription1. Adatum contains a group named Developers. Subscription1 contains a resource group named Dev.\n\nYou need to provide the Developers group with the ability to create Azure logic apps in the Dev resource group.\n\nSolution: On Subscription1, you assign the DevTest Labs User role to the Developers group.\n\nDoes this meet the goal?",
-      "EXPLANATION_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/E2.html",
-      "EXAM_ID": 0,
-      "TYPE": 1
+      "TEXT1": "You have an Azure Active Directory (Azure AD) tenant that contains 5,000 user accounts.\r\nYou create a new user account named AdminUser1.\r\n\r\nYou need to assign the User administrator administrative role to AdminUser1.\r\n\r\nWhat should you do from the user account properties?",
+      "EXPLANATION_URL": "RemoteE3.html",
+      "TYPE": 0
    },
    {
       "ID": 3,
       "GENID": "MS_AZ_103_Q3",
-      "TEXT1": "You have an Azure Active Directory (Azure AD) tenant that contains 5,000 user accounts.\nYou create a new user account named AdminUser1.\nYou need to assign the User administrator administrative role to AdminUser1.\n\nWhat should you do from the user account properties?\n",
-      "EXPLANATION_URL": "https://antvissmedia.github.io/Exams/MS_AZ_103/E3.html",
-      "EXAM_ID": 0,
+      "TEXT1": "You have an Azure subscription that contains the resources in the following table.",
+      "IMAGE1": "Remoteq4-1.png",
+      "TEXT2": "Store1 conStore1 contains a file share named Data. Data contains 5,000 files.\r\nYou need to synchronize the files in Data to an on-premises server named Server1.\r\n\r\nWhich three actions should you perform? Each correct answer presents part of the solution.\r\n\r\nNOTE: Each correct selection is worth one point.",
+      "EXPLANATION_URL": "RemoteE4.html",
       "TYPE": 1
+   },
+   {
+      "ID": 4,
+      "GENID": "MS_AZ_103_Q4",
+      "TEXT1": "You have the Azure virtual machines shown in the following table.",
+      "IMAGE1": "Remoteq5.png",
+      "TEXT2": "You have a Recovery Services vault that protects VM1 and VM2.\r\n\r\nYou need to protect VM3 and VM4 by using Recovery Services.\r\n\r\nWhat should you do first?",
+      "EXPLANATION_URL": "RemoteE5.html",
+      "TYPE": 0
+   },
+   {
+      "ID": 5,
+      "GENID": "MS_AZ_103_Q5",
+      "TEXT1": "You plan to use the Azure Import/Export service to copy files to a storage account.\r\n\r\nWhich two files should you create before you prepare the drives for the import job? Each correct answer presents part of the solution.\r\n\r\nNOTE: Each correct selection is worth one point.",
+      "EXPLANATION_URL": "RemoteE6.html",
+      "TYPE": 1
+   },
+   {
+      "ID": 6,
+      "GENID": "MS_AZ_103_Q6",
+      "TEXT1": "You create an Azure Storage account named contosostorage.\r\nYou plan to create a file share named data.\r\nUsers need to map a drive to the data file share from home computers that run Windows 10.\r\nWhich outbound port should you open between the home computers and the data file share?",
+      "EXPLANATION_URL": "RemoteE7.html",
+      "TYPE": 0
+   },
+   {
+      "ID": 7,
+      "GENID": "MS_AZ_103_Q7",
+      "TEXT1": "You have an Azure subscription that contains a virtual machine named VM1. VM1 hosts a line-of-business application that is available 24 hours a day. VM1 has one network interface and one managed disk. VM1 uses the D4s v3 size.\r\nYou plan to make the following changes to VM1:\r\n\u2711 Change the size to D8s v3.\r\n\u2711 Add a 500-GB managed disk.\r\n\u2711 Add the Puppet Agent extension.\r\n\u2711 Attach an additional network interface.\r\nWhich change will cause downtime for VM1?",
+      "EXPLANATION_URL": "RemoteE8.html",
+      "TYPE": 0
+   },
+   {
+      "ID": 8,
+      "GENID": "MS_AZ_103_Q8",
+      "TEXT1": "You have an Azure virtual machine named VM1 that you use for testing. VM1 is protected by Azure Backup.\r\nYou delete VM1.\r\nYou need to remove the backup data stored for VM1.\r\nWhat should you do first?",
+      "EXPLANATION_URL": "RemoteE9.html",
+      "TYPE": 0
+   },
+   {
+      "ID": 9,
+      "GENID": "MS_AZ_103_Q9",
+      "TEXT1": "You have an Azure subscription named Subscription1.\r\nYou deploy a Linux virtual machine named VM1 to Subscription1.\r\nYou need to monitor the metrics and the logs of VM1.\r\nWhat should you use?",
+      "EXPLANATION_URL": "RemoteE10.html",
+      "TYPE": 0
+   },
+   {
+      "ID": 10,
+      "GENID": "MS_AZ_103_Q10",
+      "TEXT1": "You plan to back up an Azure virtual machine named VM1.\r\nYou discover that the Backup Pre-Check status displays a status of Warning.\r\nWhat is a possible cause of the Warning status?",
+      "EXPLANATION_URL": "RemoteE11.html",
+      "TYPE": 0
+   },
+   {
+      "ID": 11,
+      "GENID": "MS_AZ_103_Q11",
+      "TEXT1": "You have an Azure subscription named Subscription1 that is used by several departments at your company. Subscription1 contains the resources in the following table.",
+      "IMAGE1": "Remoteq12.png",
+      "TEXT2": "Another administrator deploys a virtual machine named VM1 and an Azure Storage account named Storage2 by using a single Azure Resource Manager template.\r\nYou need to view the template used for the deployment.\r\nFrom which blade can you view the template that was used for the deployment?",
+      "EXPLANATION_URL": "RemoteE12.html",
+      "TYPE": 0
+   },
+   {
+      "ID": 12,
+      "GENID": "MS_AZ_103_Q12",
+      "TEXT1": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.\r\nAfter you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.\r\nYou have an Azure virtual machine named VM1. VM1 was deployed by using a custom Azure Resource Manager template named ARM1.json.\r\nYou receive a notification that VM1 will be affected by maintenance.\r\nYou need to move VM1 to a different host immediately.\r\n\r\nSolution: From the Overview blade, you move the virtual machine to a different subscription.\r\n\r\nDoes this meet the goal?",
+      "EXPLANATION_URL": "RemoteE13.html",
+      "TYPE": 0
+   },
+   {
+      "ID": 13,
+      "GENID": "MS_AZ_103_Q13",
+      "TEXT1": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.\r\nAfter you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.\r\nYou have an Azure virtual machine named VM1. VM1 was deployed by using a custom Azure Resource Manager template named ARM1.json.\r\nYou receive a notification that VM1 will be affected by maintenance.\r\nYou need to move VM1 to a different host immediately.\r\n\r\nSolution: From the Redeploy blade, you click Redeploy.\r\nDoes this meet the goal?",
+      "EXPLANATION_URL": "RemoteE14.html",
+      "TYPE": 0
+   },
+   {
+      "ID": 14,
+      "GENID": "MS_AZ_103_Q14",
+      "TEXT1": "Note: This question is part of a series of questions that present the same scenario. Each question in the series contains a unique solution that might meet the stated goals. Some question sets might have more than one correct solution, while others might not have a correct solution.\r\nAfter you answer a question in this section, you will NOT be able to return to it. As a result, these questions will not appear in the review screen.\r\nYou have an Azure virtual machine named VM1. VM1 was deployed by using a custom Azure Resource Manager template named ARM1.json.\r\nYou receive a notification that VM1 will be affected by maintenance.\r\nYou need to move VM1 to a different host immediately.\r\n\r\nSolution: From the Update management blade, you click Enable.\r\nDoes this meet the goal?",
+      "EXPLANATION_URL": "RemoteE13.html",
+      "TYPE": 0
    }
 ]

@@ -1,21 +1,135 @@
 [
    {
-      "ID": 1,
-      "QUESTION_GENID": "MS_AZ_103_Q1",
+      "ID": 0,
+      "QUESTION_GENID": "MS_AZ_103_Q9",
       "GENID": "MS_AZ_103_A1",
       "GROUP1_TEXT": "Default",
       "GROUP1_VAL": 1,
+      "GROUP2_TEXT": "the AzurePerformanceDiagnostics extension",
       "GROUP2_VAL": 0,
+      "GROUP3_TEXT": "Azure HDInsight",
       "GROUP3_VAL": 0,
       "GROUP1": [
          {
-            "TEXT": "You are prevented from creating Azure SQL Servers in ContosoRG1 only.",
+            "TEXT": "Linux Diagnostic Extension (LAD) 3.0",
+            "VALUE": 1
+         },
+         {
+            "TEXT": "Azure Analysis Services",
             "VALUE": 0
          },
          {
-            "TEXT": "You can create Azure SQL servers in ContosoRG1 only.",
-            "VALUE": 1
+            "TEXT": 26
+         }
+      ]
+   },
+   {
+      "ID": 1,
+      "QUESTION_GENID": "MS_AZ_103_Q10",
+      "GENID": "MS_AZ_103_A2",
+      "GROUP1_TEXT": "Default",
+      "GROUP1_VAL": 1,
+      "GROUP2_TEXT": "VM1 is stopped.",
+      "GROUP2_VAL": 0,
+      "GROUP3_TEXT": "VM1 does not have the latest version of WaAppAgent.exe installed.",
+      "GROUP3_VAL": 1,
+      "GROUP1": [
+         {
+            "TEXT": "VM1 has an unmanaged disk.",
+            "VALUE": 0
          },
+         {
+            "TEXT": "A Recovery Services vault is unavailable.",
+            "VALUE": 0
+         },
+         {
+            "TEXT": 27
+         }
+      ]
+   },
+   {
+      "ID": 2,
+      "QUESTION_GENID": "MS_AZ_103_Q11",
+      "GENID": "MS_AZ_103_A3",
+      "GROUP1_TEXT": "Default",
+      "GROUP1_VAL": 1,
+      "GROUP2_TEXT": "Container1",
+      "GROUP2_VAL": 0,
+      "GROUP3_TEXT": "RG1",
+      "GROUP3_VAL": 1,
+      "GROUP1": [
+         {
+            "TEXT": "VM1",
+            "VALUE": 0
+         },
+         {
+            "TEXT": "Storage2",
+            "VALUE": 0
+         },
+         {
+            "TEXT": 28
+         }
+      ]
+   },
+   {
+      "ID": 3,
+      "QUESTION_GENID": "MS_AZ_103_Q12",
+      "GENID": "MS_AZ_103_A4",
+      "GROUP1_TEXT": "Default",
+      "GROUP1_VAL": 1,
+      "GROUP2_TEXT": "Yes",
+      "GROUP2_VAL": 0,
+      "GROUP3_TEXT": "No",
+      "GROUP3_VAL": 1,
+      "GROUP1": [
+         {
+            "TEXT": 29
+         }
+      ]
+   },
+   {
+      "ID": 4,
+      "QUESTION_GENID": "MS_AZ_103_Q12",
+      "GENID": "MS_AZ_103_A5",
+      "GROUP1_TEXT": "Default",
+      "GROUP1_VAL": 1,
+      "GROUP2_TEXT": "Yes",
+      "GROUP2_VAL": 1,
+      "GROUP3_TEXT": "No",
+      "GROUP3_VAL": 0,
+      "GROUP1": [
+         {
+            "TEXT": 29
+         }
+      ]
+   },
+   {
+      "ID": 5,
+      "QUESTION_GENID": "MS_AZ_103_Q14",
+      "GENID": "MS_AZ_103_A6",
+      "GROUP1_TEXT": "Default",
+      "GROUP1_VAL": 1,
+      "GROUP2_TEXT": "Yes",
+      "GROUP2_VAL": 0,
+      "GROUP3_TEXT": "No",
+      "GROUP3_VAL": 1,
+      "GROUP1": [
+         {
+            "TEXT": 31
+         }
+      ]
+   },
+   {
+      "ID": 6,
+      "QUESTION_GENID": "MS_AZ_103_Q0",
+      "GENID": "MS_AZ_103_A7",
+      "GROUP1_TEXT": "Default",
+      "GROUP1_VAL": 1,
+      "GROUP2_TEXT": "You are prevented from creating Azure SQL Servers in ContosoRG1 only.",
+      "GROUP2_VAL": 0,
+      "GROUP3_TEXT": "You can create Azure SQL servers in ContosoRG1 only.",
+      "GROUP3_VAL": 1,
+      "GROUP1": [
          {
             "TEXT": "You can create Azure SQL servers in any resource group within Subscription1.",
             "VALUE": 0
@@ -23,61 +137,198 @@
          {
             "TEXT": "You are prevented from creating Azure SQL servers anywhere in Subscription1.",
             "VALUE": 0
+         },
+         {
+            "TEXT": 17
          }
-      ],
-      "GROUP2": [
-      ],
-      "GROUP3": [
       ]
    },
    {
-      "ID": 2,
+      "ID": 7,
+      "QUESTION_GENID": "MS_AZ_103_Q1",
+      "GENID": "MS_AZ_103_A8",
+      "GROUP1_TEXT": "Default",
+      "GROUP1_VAL": 1,
+      "GROUP2_TEXT": "Yes",
+      "GROUP2_VAL": 1,
+      "GROUP3_TEXT": "No",
+      "GROUP3_VAL": 0,
+      "GROUP1": [
+         {
+            "TEXT": 18
+         }
+      ]
+   },
+   {
+      "ID": 8,
       "QUESTION_GENID": "MS_AZ_103_Q2",
-      "GENID": "MS_AZ_103_A2",
+      "GENID": "MS_AZ_103_A9",
       "GROUP1_TEXT": "Default",
       "GROUP1_VAL": 1,
-      "GROUP2_VAL": 0,
+      "GROUP2_TEXT": "From the Directory role blade, modify the directory role.",
+      "GROUP2_VAL": 1,
+      "GROUP3_TEXT": "From the Licenses blade, assign a new license.",
       "GROUP3_VAL": 0,
       "GROUP1": [
-         {
-            "TEXT": "Yes",
-            "VALUE": 0
-         },
-         {
-            "TEXT": "No",
-            "VALUE": 1
-         }
-      ],
-      "GROUP2": [
-      ],
-      "GROUP3": [
-      ]
-   },
-   {
-      "ID": 3,
-      "QUESTION_GENID": "MS_AZ_103_Q3",
-      "GENID": "MS_AZ_103_A3",
-      "GROUP1_TEXT": "Default",
-      "GROUP1_VAL": 1,
-      "GROUP2_VAL": 0,
-      "GROUP3_VAL": 0,
-      "GROUP1": [
-         {
-            "TEXT": "From the Directory role blade, modify the directory role.",
-            "VALUE": 1
-         },
-         {
-            "TEXT": "From the Licenses blade, assign a new license.",
-            "VALUE": 0
-         },
          {
             "TEXT": "From the Groups blade, invite the user account to a new group.",
             "VALUE": 0
+         },
+         {
+            "TEXT": 19
          }
-      ],
-      "GROUP2": [
-      ],
-      "GROUP3": [
+      ]
+   },
+   {
+      "ID": 9,
+      "QUESTION_GENID": "MS_AZ_103_Q3",
+      "GENID": "MS_AZ_103_A10",
+      "GROUP1_TEXT": "Default",
+      "GROUP1_VAL": 3,
+      "GROUP2_TEXT": "Download an automation script.",
+      "GROUP2_VAL": 0,
+      "GROUP3_TEXT": "Register Server1.",
+      "GROUP3_VAL": 1,
+      "GROUP1": [
+         {
+            "TEXT": "Create a sync group.",
+            "VALUE": 1
+         },
+         {
+            "TEXT": "Create a container instance.",
+            "VALUE": 0
+         },
+         {
+            "TEXT": "Install the Azure File Sync agent on Server1.",
+            "VALUE": 1
+         },
+         {
+            "TEXT": 20
+         }
+      ]
+   },
+   {
+      "ID": 10,
+      "QUESTION_GENID": "MS_AZ_103_Q4",
+      "GENID": "MS_AZ_103_A11",
+      "GROUP1_TEXT": "Default",
+      "GROUP1_VAL": 1,
+      "GROUP2_TEXT": "Create a new backup policy.",
+      "GROUP2_VAL": 0,
+      "GROUP3_TEXT": "Configure the extensions for VM3 and VM4.",
+      "GROUP3_VAL": 0,
+      "GROUP1": [
+         {
+            "TEXT": "Create a storage account.",
+            "VALUE": 0
+         },
+         {
+            "TEXT": "Create a new Recovery Services vault.",
+            "VALUE": 1
+         },
+         {
+            "TEXT": 21
+         }
+      ]
+   },
+   {
+      "ID": 11,
+      "QUESTION_GENID": "MS_AZ_103_Q5",
+      "GENID": "MS_AZ_103_A12",
+      "GROUP1_TEXT": "Default",
+      "GROUP1_VAL": 2,
+      "GROUP2_TEXT": "a driveset CSV file",
+      "GROUP2_VAL": 1,
+      "GROUP3_TEXT": "a JSON configuration file",
+      "GROUP3_VAL": 0,
+      "GROUP1": [
+         {
+            "TEXT": "a PowerShell PS1 file",
+            "VALUE": 0
+         },
+         {
+            "TEXT": "an XML manifest file",
+            "VALUE": 0
+         },
+         {
+            "TEXT": "a dataset CSV file",
+            "VALUE": 1
+         },
+         {
+            "TEXT": 22
+         }
+      ]
+   },
+   {
+      "ID": 12,
+      "QUESTION_GENID": "MS_AZ_103_Q6",
+      "GENID": "MS_AZ_103_A13",
+      "GROUP1_TEXT": "Default",
+      "GROUP1_VAL": 1,
+      "GROUP2_TEXT": "80",
+      "GROUP2_VAL": 0,
+      "GROUP3_TEXT": "443",
+      "GROUP3_VAL": 0,
+      "GROUP1": [
+         {
+            "TEXT": "445",
+            "VALUE": 1
+         },
+         {
+            "TEXT": "3389",
+            "VALUE": 0
+         },
+         {
+            "TEXT": 23
+         }
+      ]
+   },
+   {
+      "ID": 13,
+      "QUESTION_GENID": "MS_AZ_103_Q7",
+      "GENID": "MS_AZ_103_A14",
+      "GROUP1_TEXT": "Default",
+      "GROUP1_VAL": 1,
+      "GROUP2_TEXT": "Add the Puppet Agent extension.",
+      "GROUP2_VAL": 0,
+      "GROUP3_TEXT": "Change the size to D8s v3.",
+      "GROUP3_VAL": 1,
+      "GROUP1": [
+         {
+            "TEXT": "Add a 500-GB managed disk.",
+            "VALUE": 0
+         },
+         {
+            "TEXT": "Attach an additional network interface.",
+            "VALUE": 0
+         },
+         {
+            "TEXT": 24
+         }
+      ]
+   },
+   {
+      "ID": 14,
+      "QUESTION_GENID": "MS_AZ_103_Q8",
+      "GENID": "MS_AZ_103_A15",
+      "GROUP1_TEXT": "Default",
+      "GROUP1_VAL": 1,
+      "GROUP2_TEXT": "Delete the Recovery Services vault.",
+      "GROUP2_VAL": 0,
+      "GROUP3_TEXT": "Delete the storage account.",
+      "GROUP3_VAL": 0,
+      "GROUP1": [
+         {
+            "TEXT": "Stop the backup",
+            "VALUE": 1
+         },
+         {
+            "TEXT": "Modify the backup policy.",
+            "VALUE": 0
+         },
+         {
+            "TEXT": 25
+         }
       ]
    }
 ]
