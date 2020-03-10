@@ -4,15 +4,15 @@
       "QUESTION_GENID": "MS_AZ_120_Q0",
       "GENID": "MS_AZ_120_A1",
       "GROUP1_TEXT": "Default",
-      "GROUP1_VAL": 0,
+      "GROUP1_VAL": 3,
       "GROUP1": [
          {
             "TEXT": "Start VM1, VM2 and VM3",
-            "VALUE": 0
+            "VALUE": 1
          },
          {
             "TEXT": "Stop VM1,VM2 and VM3",
-            "VALUE": 0
+            "VALUE": 1
          },
          {
             "TEXT": "Start VM2 and VM3",
@@ -20,7 +20,7 @@
          },
          {
             "TEXT": "Resize VM1",
-            "VALUE": 0
+            "VALUE": 1
          },
          {
             "TEXT": "Stop VM2 and VM3",
@@ -30,6 +30,11 @@
             "TEXT": "Start VM1",
             "VALUE": 0
          }
+      ],
+      "POSITIONS": [
+         0,
+         2,
+         1
       ]
    }
 ]
