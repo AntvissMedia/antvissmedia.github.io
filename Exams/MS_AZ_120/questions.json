@@ -1,0 +1,11 @@
+[
+   {
+      "ID": 0,
+      "GENID": "MS_AZ_120_Q0",
+      "TEXT1": "You have an availability set named AS1 that contains three virtual machines named VM1, VM2, and VM3.\r\nYou attempt to reconfigure VM1 to use a larger size. The operation fails and you receive an allocation failure message.\r\nYou need to ensure that the resize operation succeeds.\r\n\r\nActual Exam Screenshot:",
+      "IMAGE1": "https://antvissmedia.github.io/Exams/MS_AZ_120/q1.jpg",
+      "TEXT2": "Which three actions should you perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.",
+      "EXPLANATION_URL": "https://antvissmedia.github.io/Exams/MS_AZ_120/E1.html",
+      "TYPE": 2
+   }
+]
